@@ -32,6 +32,9 @@ ComicML
 
 Als Format habe ich XML im Auge – irgendwas in der Form
 
+	<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE comic SYSTEM "comic.dtd">
+
 	<comic>
 	
 		<header defaults="1">
@@ -41,12 +44,16 @@ Als Format habe ich XML im Auge – irgendwas in der Form
 			...
 		</header>
 			
-		<page>
+		<page id="1">
 			<description></description>
-			<panel>
-				<description></description>
+			<panel id="1">
+				<description>
+					in this panel we see two cartoon foxes without legs talking to each other
+				</description>
+				<text type="box01">meanwhile...</text>
+				<text type="bubble01">chunky bacon</text>
 			</panel>
-			<panel>
+			<panel id="2">
 				<description></description>
 			</panel>
 			...
@@ -55,8 +62,8 @@ Als Format habe ich XML im Auge – irgendwas in der Form
 		
 	</comic>
 	
-Mit Hilfe dieser Daten sollten man dann einzelne Panels und ganze Seiten als jpeg oder png, sowie fertige Comics als pdf generieren können.
-An dieser Stelle sei gesagt, dass nichts davon in Stein gemeisselt ist. diese Zeilen sind zwar mit ComicML überschrieben, aber ich könnte mir auch andere Formate als XML und einen anderen Namen für das Format denken (wie wär's z.B. mit "OpenComic"? oder "Grml" - für GRaphic-novel Markup Language?)
+Mit Hilfe dieser Daten sollten man dann einzelne Panels und ganze Seiten als jpeg oder png, sowie fertige Comics als pdf oder – zur Weiterverarbeitung – im proprietären Format eines Satz-Programms wie Indesign generieren können.
+An dieser Stelle sei gesagt, dass nichts davon in Stein gemeisselt ist. diese Zeilen sind zwar mit ComicML überschrieben, aber ich könnte mir auch andere Formate als XML und einen anderen Namen für das Format denken (wie wär's z.B. mit "OpenComic"? oder "Grml" - für GRaphic-novel Markup Language?).
 
 		
 		
