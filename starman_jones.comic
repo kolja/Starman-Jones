@@ -3,72 +3,72 @@
 
 <comic>
 
-	<defaults id="1"
-		pagewidth = 	"210mm"
-		pageheight = 	"297mm"
-		kopfsteg = 		"330mm"
-		fusssteg = 		"660mm"
-		aussensteg = 	"467mm"
-		bundsteg = 		"233mm"
-		dividerwidth = 	"5mm"
-		panelsperrow = 	"4mm"
-		panelspercol = 	"4mm"
-	/>
-		
-	<page id="1">
-		<description>
-			Max liked this time of day, this time of year. With the crops in, he could finish his evening chores early and be lazy. When he had slopped the hogs and fed the chickens, instead of getting supper he followed a path to a rise west of the barn and lay down in the grass., unmindful of chiggers. He had a book with him that he had drawn from the country library last Saturday, Bonforte's "Sky Beasts: A Guide to Exotic Zoology", but he tucked it under his head as a pillow. A blue jay made remarks about his honesty, then shut up when he failed to move. A red squirrel sat on a stump and stared at him, then went on burying nuts.
-			Max kept his eyes on the northwest. He favored this spot because from it he could see the steel stilts and guide rings of the Chicago, Springfield, & Earthport Ring Road emerge from a slash in the ridge to his right. There was a guide ring at the mouth of the cut, a great steleel hoop twenty feet high. A pair of stilt-like tripods supported another ring a hundred feet out from the cut. A third and last ring, its stilts more than a hundred feet high to keep it level with the others, lay west of him where the ground dropped still more sharply into the valley below. Half way up it he could see the power-link antenna pointing across the gap.
-			On his left the guides of the C.S.&E. picked up again on the far side of the gap. The entering ring was larger to allow for maximum windage deviation; on its stilts was the receptor antenna for the power link. That ridge was steeper; there was only one more Ring before the road disappeared into the tunnel.
-			[...]
-			Max kept his eyes fixed on the cut; the "Tomahawk" was due any instant. Suddenly there was a silver gleam, a shining cylinder with needle nose burst out of the cut, flashed through the last ring and for a breathless moment was in free trajectory between the ridges. Almost before he could swing his eyes the projectile entered the ring across the gap and disappeared into the hillside – just as the sound hit him.
-			It was a thunderclap that bounced around the hills. Max gasped for air. "Boy!" he said softly. "Boy, oh boy!" The incredible sight and the impact on his ears always affected him the same way. 
-			[...]		
-		</description>
-		<panel id="1" width="max">
-			<description>
-				Establishing shot; from above: The rings of the C.S.&E., Max, _very_ small in the relative foreground
-			</description>
-			<text type="box01">Max liked this time of day, this time of year. With the crops in, he could finish his evening chores early and be lazy.</text>
-		</panel>
-		<panel id="2">
-			<description>Max, close from behind, in the background: Rings of the C.S.&E. "Bonforte: Sky Beasts; A Guide to Exotic Zoology" can be read on the bookcover</description>
-		</panel>
-		<panel id="3">
-			<description>Rings of the C.S.&E</description>
-		</panel>
-		<panel id="4" width="max">
-			<description>Rings of the C.S.&E closer</description>
-		</panel>
-		<panel id="5" width="2.5x">
-			<description>Max, halfprofile – Squirrel in the Background</description>
-			<text type="box01">the "Tomahawk" was due any instant</text>
-		</panel>
-		<panel id="6">
-			<description>Closeup: red Squirrel sniffing</description>
-		</panel>
-		<panel id="7">
-			<description>Tomahawk appearing</description>
-		</panel>
-		<panel id="8">
-			<description>Tomahawk suspended in midair</description>
-		</panel>
-		<panel id="9" width="max">
-			<description>Max, wideeyed, closeup. In the background: "thunderclap"-sound</description>
-			<text type="bubble01">Boy! Boy, oh Boy!</text>
-			<text type="box01">It always affected him the same way.</text>
-		</panel>
-	</page>
+    <defaults id="1"
+        pagewidth = "210mm"
+        pageheight = "297mm"
+        kopfsteg = "330mm"
+        fusssteg = "660mm"
+        aussensteg = "467mm"
+        bundsteg = "233mm"
+        dividerwidth = "5mm"
+        panelsperrow = "4mm"
+        panelspercol = "4mm"
+        />
 
-	<page id="2">
-		<description>
-		
-		</description>
-	</page>
-	
-	<page id="3">
-		<description>
-		
-		</description>
-	</page>	
+    <page id="1">
+        <description>
+            Max liked this time of day, this time of year. With the crops in, he could finish his evening chores early and be lazy. When he had slopped the hogs and fed the chickens, instead of getting supper he followed a path to a rise west of the barn and lay down in the grass., unmindful of chiggers. He had a book with him that he had drawn from the country library last Saturday, Bonforte's "Sky Beasts: A Guide to Exotic Zoology", but he tucked it under his head as a pillow. A blue jay made remarks about his honesty, then shut up when he failed to move. A red squirrel sat on a stump and stared at him, then went on burying nuts.
+            Max kept his eyes on the northwest. He favored this spot because from it he could see the steel stilts and guide rings of the Chicago, Springfield, & Earthport Ring Road emerge from a slash in the ridge to his right. There was a guide ring at the mouth of the cut, a great steleel hoop twenty feet high. A pair of stilt-like tripods supported another ring a hundred feet out from the cut. A third and last ring, its stilts more than a hundred feet high to keep it level with the others, lay west of him where the ground dropped still more sharply into the valley below. Half way up it he could see the power-link antenna pointing across the gap.
+            On his left the guides of the C.S.&E. picked up again on the far side of the gap. The entering ring was larger to allow for maximum windage deviation; on its stilts was the receptor antenna for the power link. That ridge was steeper; there was only one more Ring before the road disappeared into the tunnel.
+            [...]
+            Max kept his eyes fixed on the cut; the "Tomahawk" was due any instant. Suddenly there was a silver gleam, a shining cylinder with needle nose burst out of the cut, flashed through the last ring and for a breathless moment was in free trajectory between the ridges. Almost before he could swing his eyes the projectile entered the ring across the gap and disappeared into the hillside – just as the sound hit him.
+            It was a thunderclap that bounced around the hills. Max gasped for air. "Boy!" he said softly. "Boy, oh boy!" The incredible sight and the impact on his ears always affected him the same way. 
+            [...]
+        </description>
+        <panel id="1" width="max">
+            <description>
+                Establishing shot; from above: The rings of the C.S.&E., Max, _very_ small in the relative foreground
+            </description>
+            <text type="box01">Max liked this time of day, this time of year. With the crops in, he could finish his evening chores early and be lazy.</text>
+        </panel>
+        <panel id="2">
+            <description>Max, close from behind, in the background: Rings of the C.S.&E. "Bonforte: Sky Beasts; A Guide to Exotic Zoology" can be read on the bookcover</description>
+        </panel>
+        <panel id="3">
+            <description>Rings of the C.S.&E</description>
+        </panel>
+        <panel id="4" width="max">
+            <description>Rings of the C.S.&E closer</description>
+        </panel>
+        <panel id="5" width="2.5x">
+            <description>Max, halfprofile – Squirrel in the Background</description>
+            <text type="box01">the "Tomahawk" was due any instant</text>
+        </panel>
+        <panel id="6">
+            <description>Closeup: red Squirrel sniffing</description>
+        </panel>
+        <panel id="7">
+            <description>Tomahawk appearing</description>
+        </panel>
+        <panel id="8">
+            <description>Tomahawk suspended in midair</description>
+        </panel>
+        <panel id="9" width="max">
+            <description>Max, wideeyed, closeup. In the background: "thunderclap"-sound</description>
+            <text type="bubble01">Boy! Boy, oh Boy!</text>
+            <text type="box01">It always affected him the same way.</text>
+        </panel>
+    </page>
+
+    <page id="2">
+        <description>
+
+        </description>
+    </page>
+
+    <page id="3">
+        <description>
+
+        </description>
+    </page>
 </comic>
